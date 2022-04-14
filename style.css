@@ -1,0 +1,38 @@
+body
+{
+background-size:cover;
+}
+
+.heading
+{
+    width:100%;
+    margin:0;
+    font-size:25px;
+}
+#start
+{
+    font-size:15px;
+    margin:60;
+}
+
+#input
+{
+    margin:60;
+}
+
+canvas
+{
+    border:3px solid white;
+    border-radius:15px;
+    margin:100px;
+    box-shadow: 5px 5px 5px white;
+}
+#label
+{
+    color: white;
+    margin:50;
+}
+#number_of_objects,#status
+{
+    font-size:15px;
+}
